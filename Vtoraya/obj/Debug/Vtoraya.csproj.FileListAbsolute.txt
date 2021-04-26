@@ -1,0 +1,16 @@
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\obj\Debug\Vtoraya.csprojAssemblyReference.cache
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\obj\Debug\MainWindow.g.cs
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\obj\Debug\App.g.cs
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\obj\Debug\Vtoraya_MarkupCompile.cache
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\obj\Debug\Vtoraya_MarkupCompile.lref
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\bin\Debug\Vtoraya.exe.config
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\bin\Debug\Vtoraya.exe
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\bin\Debug\Vtoraya.pdb
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\obj\Debug\MainWindow.baml
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\obj\Debug\Vtoraya.g.resources
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\obj\Debug\Vtoraya.Properties.Resources.resources
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\obj\Debug\Vtoraya.csproj.GenerateResource.cache
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\obj\Debug\Vtoraya.exe
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\obj\Debug\Vtoraya.pdb
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\obj\Debug\Red.g.cs
+F:\Подготовка к ДЕМО-экзамену\Sessia_2\Vtoraya\Vtoraya\obj\Debug\Red.baml

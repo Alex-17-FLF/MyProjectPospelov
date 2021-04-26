@@ -1,0 +1,29 @@
+﻿<Window x:Class="Vtoraya.Red"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vtoraya"
+        mc:Ignorable="d"
+        Title="Red" Height="359.333" Width="510.262" Foreground="#FF959595">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFFF9C1A" Offset="0"/>
+            <GradientStop Color="White" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="99*"/>
+            <ColumnDefinition Width="152*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="Image_photo" HorizontalAlignment="Left" Height="198" Margin="10,10,0,0" VerticalAlignment="Top" Width="178" Source="0D30C4EE.jpg"/>
+        <TextBox x:Name="ID_textbox" HorizontalAlignment="Left" Height="23" Margin="9,10,0,0" TextWrapping="Wrap" Text="ID" VerticalAlignment="Top" Width="285" Background="#FFFFFFE1" Grid.Column="1"/>
+        <TextBox x:Name="Name_textbox" HorizontalAlignment="Left" Height="23" Margin="9,38,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="285" Background="#FFFFFFE1" Grid.Column="1"/>
+        <TextBox x:Name="cost_textbox" HorizontalAlignment="Left" Height="23" Margin="9,66,0,0" TextWrapping="Wrap" Text="Cost" VerticalAlignment="Top" Width="285" Background="#FFFFFFE1" Grid.Column="1"/>
+        <TextBox x:Name="Des_TextBox" HorizontalAlignment="Left" Height="167" Margin="9,122,0,0" TextWrapping="Wrap" Text="Descrip" VerticalAlignment="Top" Width="285" Background="#FFFFFFE1" Grid.Column="1"/>
+        <TextBox x:Name="Manuf_Textbox" HorizontalAlignment="Left" Height="23" Margin="9,94,0,0" TextWrapping="Wrap" Text="Man" VerticalAlignment="Top" Width="285" Background="#FFFFFFE1" Grid.Column="1"/>
+        <TextBox x:Name="nalich_textbox" HorizontalAlignment="Left" Height="23" Margin="10,213,0,0" TextWrapping="Wrap" Text="IsRead" VerticalAlignment="Top" Width="178" Background="#FFFFFFE1" SelectionBrush="LightGray"/>
+
+    </Grid>
+</Window>
